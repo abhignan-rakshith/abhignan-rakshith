@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/abhi_rakz" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_rakz?logo=twitter&style=for-the-badge" alt="abhi_rakz" /></a> </p>
 
-- 🔭 I’m currently working on [BioMed - Automation](-)
+- 🔭 I’m currently working on [Bio Medical IVD - Automation](-)
 
-- 🌱 I’m currently learning **C++ & Python**
+- 🌱 I’m currently mastering **C++ & C#**
 
-- 💬 Ask me about **C, Arduino, Scratch, HTML**
+- 💬 Ask me about **C, Python, Arduino, C++, C#, ASP.NET, Android, Flutter**
 
 - 📫 How to reach me **abhignanrakshith@outlook.com**
 
